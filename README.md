@@ -1,5 +1,3 @@
-# manual-ecommerce-testing
-Manual QA testing portfolio covering customer journeys, test cases, exploratory testing and defect reporting.
 # Manual E-commerce Testing Portfolio
 
 A manual QA testing project covering customer journeys on the DemoBlaze e-commerce website.
